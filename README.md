@@ -1,1 +1,2 @@
-# Housepricing_forcast
+# Housepricing_forcast 
+In my project, I utilized house pricing forecast using linear regression, a predictive modeling technique aimed at estimating future house prices based on historical data and various influencing factors. This approach leverages linear regression, a fundamental statistical method in machine learning, to analyze the relationship between house prices and key features such as size, number of bedrooms, location, and other relevant attributes. By applying linear regression, I was able to uncover patterns and trends in the data, enabling accurate predictions of future house prices based on these essential features.
